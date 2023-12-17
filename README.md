@@ -5,7 +5,7 @@
 - I’m looking to collaborate on database design and management.
 - How to reach me:
 - email: phenomanaal@gmail.com
-- twitter: [phenomanaal](twitter.com/phenomanaal)
+- twitter: [phenomanaal](http://www.twitter.com/phenomanaal)
 
 <!---
 phenomanaal/phenomanaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
